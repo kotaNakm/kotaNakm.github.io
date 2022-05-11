@@ -1,8 +1,8 @@
-languageCode = "en-ja"
-languageName = "English"
+languageCode = "ja"
+languageName = "日本語"
 displayName = ""
-isoCode = "en"
-weight = 1
+isoCode = "ja"
+weight = 2
 rtl = false
 
 title = "Kota Nakamura"
@@ -14,7 +14,7 @@ dateFormat = "May 2022"
 
 
 [author]
-  name = "Kota Nakamura"
+  name = "中村 航大"
   image = "img/prof_kota.png"
   headline = "" 
   links = [

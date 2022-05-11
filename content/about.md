@@ -15,7 +15,7 @@ Address: Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 Email: kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
 
 ## Awards & Grants
-- May. 2022, Osaka university fellowship for cross-disciplinary innovation
+- May. 2022 - now, Osaka university fellowship for cross-disciplinary innovation
 - Mar. 2022, Student Presentation Award (DEIM2022)
 - Mar. 2022, Award of the Graduate School of Information Science and Technology of Osaka University
 - Aug, 2021, SPEND grant for virtual attendance (VLDB2021)
@@ -30,3 +30,5 @@ Information Systems Engineering,
 - B.Sc. (2020)  
 Department of Computer Science and Electrical Engineering,  
 [Kumamoto University](http://www.cs.kumamoto-u.ac.jp/eng.html)
+
+<!-- ## Others -->
