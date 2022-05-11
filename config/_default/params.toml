@@ -45,11 +45,11 @@ showScrollToTop = true
   showTableOfContents = false
   groupByYear = true
 
-[sitemap]
-  excludedKinds = ["taxonomy", "term"]
+#[sitemap]
+#  excludedKinds = ["taxonomy", "term"]
 
-[taxonomy]
-  showTermCount = true
+#[taxonomy]
+#  showTermCount = true
 
 [fathomAnalytics]
   # site = "ABC12345"
