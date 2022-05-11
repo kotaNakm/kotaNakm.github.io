@@ -17,12 +17,12 @@ dateFormat = "May 2022"
   name = "Kota Nakamura"
   image = "img/AI_icon.jpeg"
   headline = "" 
-  links = [
-     { email = "mailto:hello@your_domain.com" },
-     { link = "https://link-to-some-website.com/" },
-     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
-     { apple = "https://www.apple.com" },
-     { blogger = "https://username.blogspot.com/" },
+  #links = [
+  #   { email = "mailto:hello@your_domain.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
   #   { dev = "https://dev.to/username" },
   #   { discord = "https://discord.gg/invitecode" },
@@ -59,6 +59,6 @@ dateFormat = "May 2022"
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  ]
+  #]
     bio = "A little bit about you"
 
