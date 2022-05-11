@@ -11,14 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Publications"
-  pageRef = "publications"
+  name = "About"
+  pageRef = "about"
   weight = 10
 
-#[[main]]
-#  name = "About"
-#  pageRef = "about"
-#  weight = 20
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 20
 
 #[[main]]
 # name = "Tags"

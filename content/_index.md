@@ -1,14 +1,6 @@
 
 
 I am a Ph.D. student at Osaka University, Japan.  
-My research focuses on time-series data mining and pattern mining.
+My research interests are time-series data mining, pattern mining and data stream mining.
 
 
-## Affilication
-
-
-## Education
-
-## EXPERIENCES
-
-## AWARDS & HONORS
