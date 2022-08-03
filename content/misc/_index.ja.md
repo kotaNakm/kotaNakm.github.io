@@ -5,7 +5,7 @@
 
 \
 {{< button href="/" target="_self" >}}
-Go to English page
+English page
 {{< /button >}}
 
 <!-- ## Selected Recent Publications -->
