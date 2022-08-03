@@ -8,7 +8,7 @@ I am a Ph.D. student at Osaka University, Japan.
 My research interests are time-series data mining, pattern mining and data stream mining.  
 Project researcher at SANKEN (The Institute of Scientific and Industrial Research at Osaka Univ.)
 
-## Affilication  
+## Affiliation  
 [Sakurai/Matsubara Laboratory](https://www.dm.sanken.osaka-u.ac.jp/)  
 [The Institute of Scientific and Industrial Research (SANKEN)](https://www.sanken.osaka-u.ac.jp/en/)  
 [Osaka University](https://www.osaka-u.ac.jp/en)  
