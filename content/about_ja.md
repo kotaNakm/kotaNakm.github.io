@@ -8,8 +8,8 @@ sharingLinks: false
     src="img/kar_philipine.JPG"
     alt="abstract purple artwork"
     >}} -->
-    
-大阪大学 情報科学研究科 博士後期課程 1年  
+
+大阪大学大学院 情報科学研究科 博士後期課程 1年  
 同大学 産業科学研究所 特任研究員  
 <!-- 大規模時系列データマイニングの研究に従事\
 日本データベース学会学生会員 -->
@@ -20,8 +20,8 @@ sharingLinks: false
 [情報科学研究科 情報システム工学専攻](https://www.sanken.osaka-u.ac.jp/en/)  
 [櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/)  
 〒565-0871 茨木市美穂ヶ丘8-1  
-{{< icon "email" >}} kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
-
+Email: kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
+<!-- {{< icon "email" >}} -->
 
 ## 研究課題
 大規模複合時系列イベントデータ解析, 特徴自動抽出, データストリーム解析
