@@ -8,10 +8,9 @@ sharingLinks: false
     src="img/kar_philipine.JPG"
     alt="abstract purple artwork"
     >}} -->
-
-中村 航大 (なかむら こうた)  
+    
 大阪大学 情報科学研究科 博士後期課程 1年  
-大阪大学 産業科学研究所 特任研究員  
+同大学 産業科学研究所 特任研究員  
 <!-- 大規模時系列データマイニングの研究に従事\
 日本データベース学会学生会員 -->
 
