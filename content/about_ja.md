@@ -29,7 +29,7 @@ sharingLinks: false
 
 ## 学歴
 - 2022年 [大阪大学大学院 情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/) 情報システム工学専攻 卒業 \
-(**情報科学研究科賞受賞,特に優れた業績によるJASSO奨学金返還免除**)  
+(**情報科学研究科賞受賞, 特に優れた業績によるJASSO奨学金返還免除**)  
 - 2020年 [熊本大学 工学部 情報電気電子工学科](https://www.eng.kumamoto-u.ac.jp/department/dept3/) 卒業
 - 2016年 福岡県立福岡高等学校卒業
 
