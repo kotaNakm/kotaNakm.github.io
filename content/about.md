@@ -10,9 +10,9 @@ Project researcher at SANKEN (The Institute of Scientific and Industrial Researc
 <!-- time-series data mining, pattern mining and data stream mining.   -->
 
 ## Affiliation  
-[Sakurai/Matsubara Laboratory](https://www.dm.sanken.osaka-u.ac.jp/)  
-[The Institute of Scientific and Industrial Research (SANKEN)](https://www.sanken.osaka-u.ac.jp/en/)  
-[Graduate school of information science and technology](https://www.ist.osaka-u.ac.jp/english/)
+[Sakurai/Matsubara Laboratory](https://www.dm.sanken.osaka-u.ac.jp/)\
+[The Institute of Scientific and Industrial Research (SANKEN)](https://www.sanken.osaka-u.ac.jp/en/)\
+[Graduate school of information science and technology](https://www.ist.osaka-u.ac.jp/english/)\
 [Osaka University](https://www.osaka-u.ac.jp/en)  
 Address: Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan  
 Email: kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
