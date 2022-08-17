@@ -17,6 +17,7 @@ sharingLinks: false
 ## 所属 
 [大阪大学](https://www.osaka-u.ac.jp/)  
 [産業科学研究所 (SANKEN)](https://www.sanken.osaka-u.ac.jp/)  
+[大阪大学大学院　情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/)
 [櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/)  
 〒565-0871 茨木市美穂ヶ丘8-1  
 Email: kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
