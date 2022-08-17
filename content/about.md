@@ -18,7 +18,7 @@ Address: Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 Email: kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
 
 ## Awards & Grants
-- 2022 IPSJ Yamashita SIG Research Award
+- 2022, IPSJ Yamashita SIG Research Award
 - Apr. 2022 - present, Osaka University fellowship for cross-disciplinary innovation 
 - Jul. 2022, JASSO Repayment Exemption
 - May. 2022, Best Interactive Award (DEIM2022)
