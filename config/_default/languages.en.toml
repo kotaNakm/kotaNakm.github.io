@@ -15,7 +15,7 @@ dateFormat = "May 2022"
 
 [author]
   name = "Kota Nakamura"
-  image = "img/prof_kota_official.png"
+  image = "img/prof_kota_official.JPG"  #1860x1860
   headline = "" 
   links = [
      { github = "https://github.com/kotaNakm" },

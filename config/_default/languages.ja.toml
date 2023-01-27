@@ -15,7 +15,7 @@ dateFormat = "May 2022"
 
 [author]
   name = "中村 航大"
-#  image = "img/prof_kota.png"
+  #image = "img/prof_kota_official.JPG"  #1860x1860
   headline = "" 
   links = [
      { github = "https://github.com/kotaNakm" },
