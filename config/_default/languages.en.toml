@@ -5,17 +5,16 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Kota Nakamura personal website 中村航大　中村　航大"
+title = "Kota Nakamura"
 # logo = "img/cube-3d.png"
-description = "My website"
+description = "Personal website"
 #copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "May 2022"
 
 
 [author]
-
-  name = "Kota Nakamura 中村航大 中村 航大"
+  name = "Kota Nakamura"
   image = "img/prof_kota_official.JPG"  #1860x1860
   headline = "" 
   links = [

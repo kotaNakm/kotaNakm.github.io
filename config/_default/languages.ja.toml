@@ -5,9 +5,9 @@ isoCode = "ja"
 weight = 2
 rtl = false
 
-title = "Kota Nakamura personal website"
+title = "Kota Nakamura"
 # logo = "img/aa.png"
-description = "My website"
+description = "Personal website"
 #copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "May 2022"
