@@ -7,7 +7,7 @@ rtl = false
 
 title = "Kota Nakamura personal website 中村航大　中村　航大"
 # logo = "img/cube-3d.png"
-#description = "My awesome website"
+description = "My website"
 #copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "May 2022"
