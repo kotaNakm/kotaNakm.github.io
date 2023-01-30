@@ -6,6 +6,11 @@ sharingLinks: false
 
 <!-- ## International Journal / Conference Papers -->
 ## International Conference Papers
+- Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
+[Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
+The Web Conference (WWW), 2023 (to apear)  
+
+
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()  
 47th International Conference on Very Large Data Bases PhD workshop, pp. 22-26, Copenhagen, Denmark, August 16 2021  

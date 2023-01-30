@@ -14,8 +14,9 @@ dateFormat = "May 2022"
 
 
 [author]
+
   name = "Kota Nakamura 中村航大 中村 航大"
-  image = "img/prof_kota_official.png"
+  image = "img/prof_kota_official.JPG"  #1860x1860
   headline = "" 
   links = [
      { github = "https://github.com/kotaNakm" },
