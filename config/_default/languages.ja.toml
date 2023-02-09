@@ -7,8 +7,7 @@ rtl = false
 
 title = "Kota Nakamura"
 # logo = "img/aa.png"
-description = "大阪大学大学院 情報科学研究科 博士後期課程 1年 同大学 産業科学研究所 特任研究員  
-研究課題: 大規模複合時系列イベントデータ解析, 特徴自動抽出, データストリーム解析"
+description = "大阪大学大学院 情報科学研究科 博士後期課程 1年 同大学 産業科学研究所 特任研究員  研究課題: 大規模複合時系列イベントデータ解析, 特徴自動抽出, データストリーム解析"
 #copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "May 2022"
