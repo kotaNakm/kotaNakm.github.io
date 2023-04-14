@@ -11,6 +11,7 @@ sharingLinks: false
 The Web Conference (WWW), 2023 (to apear)
 [[arXiv]](https://arxiv.org/abs/2303.03789)
 [[Code]](https://github.com/kotaNakm/CubeScope)
+[[short video]](https://youtu.be/v-E-QjEBwNk)
 
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()\
