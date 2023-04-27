@@ -9,9 +9,11 @@ sharingLinks: false
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
 The Web Conference (WWW), 2023 (to apear)
-[[arXiv]](https://arxiv.org/abs/2303.03789)
+[[Paper]](https://dl.acm.org/doi/10.1145/3543507.3583370)
 [[Code]](https://github.com/kotaNakm/CubeScope)
 [[short video]](https://youtu.be/v-E-QjEBwNk)
+[[arXiv]](https://arxiv.org/abs/2303.03789)
+
 
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()\
