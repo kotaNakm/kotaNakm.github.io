@@ -11,7 +11,7 @@ sharingLinks: false
 The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 April 2023\
 [[Paper]](https://dl.acm.org/doi/10.1145/3543507.3583370)
 [[Code]](https://github.com/kotaNakm/CubeScope)
-[[short video]](https://youtu.be/v-E-QjEBwNk)
+[[Short Video]](https://youtu.be/v-E-QjEBwNk)
 [[arXiv]](https://arxiv.org/abs/2303.03789)
 
 
