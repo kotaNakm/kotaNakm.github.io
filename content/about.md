@@ -5,7 +5,7 @@ sharingLinks: false
 ---
 
 I am a Ph.D. student at Osaka University, Japan.\
-My research focuses on data mining esp. time series and tensor streams.\
+My research interests include time series analysis, data stream mining, and scalable machine learning.\
 Project researcher at SANKEN (The Institute of Scientific and Industrial Research at Osaka Univ.)
 <!-- time-series data mining, pattern mining and data stream mining.   -->
 
