@@ -18,4 +18,4 @@ googleAnalytics = "G-8E6NJJGCPC"
 
 [security]
   [security.funcs]
-    getenv = [^HUGO_,^WC_]
+    getenv = ["^HUGO_", "^WC_"]
