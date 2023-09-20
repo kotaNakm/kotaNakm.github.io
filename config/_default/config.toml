@@ -14,3 +14,8 @@ googleAnalytics = "G-8E6NJJGCPC"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+
+[security]
+  [security.funcs]
+    getenv = [^HUGO_,^WC_]
