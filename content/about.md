@@ -5,7 +5,7 @@ sharingLinks: false
 ---
 
 I am a Ph.D. student at Osaka University, Japan.\
-大規模複合時系列イベントデータ解析,　将来イベント予測, 特徴自動抽出, データストリーム解析, 大規模データのための高速機械学習 
+My research interests include time series analysis, data stream mining, and scalable machine learning.\
 Project researcher at SANKEN (The Institute of Scientific and Industrial Research at Osaka Univ.)
 <!-- time-series data mining, pattern mining and data stream mining.   -->
 
