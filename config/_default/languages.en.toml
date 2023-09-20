@@ -12,6 +12,10 @@ description = "I am a Ph.D. student at Osaka University, Japan. My research focu
 
 dateFormat = "May 2023"
 
+[languages]
+  [languages.en]
+    [languages.en.params]
+
 
 [author]
   name = "Kota Nakamura"

@@ -12,6 +12,11 @@ description = "大阪大学大学院 情報科学研究科 博士後期課程 1�
 
 dateFormat = "May 2022"
 
+[languages]
+  [languages.ja]
+    [languages.ja.params]
+      languageCode = "ja"
+
 
 [author]
   name = "中村 航大"
