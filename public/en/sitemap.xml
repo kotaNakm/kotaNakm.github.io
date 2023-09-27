@@ -5,7 +5,6 @@
     
       <url>
             <loc>https://kotaNakm.github.io/</loc>
-            <priority>0</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ja"
@@ -22,16 +21,6 @@
     
       <url>
             <loc>https://kotaNakm.github.io/about/</loc>
-            <xhtml:link
-              rel="alternate"
-              hreflang="ja"
-              href="https://kotaNakm.github.io/ja/about/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://kotaNakm.github.io/about/"
-              />
           </url>
     
   

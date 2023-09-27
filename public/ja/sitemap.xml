@@ -4,8 +4,21 @@
   
     
       <url>
+            <loc>https://kotaNakm.github.io/ja/misc/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://kotaNakm.github.io/ja/misc/publications/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
             <loc>https://kotaNakm.github.io/ja/</loc>
-            <priority>0</priority>
             <xhtml:link
               rel="alternate"
               hreflang="en"
@@ -20,29 +33,10 @@
     
   
     
-      <url>
-            <loc>https://kotaNakm.github.io/ja/publications/</loc>
-            <priority>0</priority>
-          </url>
-    
-  
-    
-  
-    
   
     
       <url>
-            <loc>https://kotaNakm.github.io/ja/about/</loc>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://kotaNakm.github.io/about/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="ja"
-              href="https://kotaNakm.github.io/ja/about/"
-              />
+            <loc>https://kotaNakm.github.io/ja/misc/about/</loc>
           </url>
     
   
