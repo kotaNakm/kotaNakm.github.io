@@ -5,7 +5,7 @@ sharingLinks: false
 ---
 
 I am a Ph.D. student at Osaka University, Japan.\
-My research interests include time series analysis, data stream mining, and scalable machine learning.\
+My research interests include complex time series analysis, data stream mining, and scalable machine learning.\
 Project researcher at SANKEN (The Institute of Scientific and Industrial Research at Osaka Univ.)
 <!-- time-series data mining, pattern mining and data stream mining.   -->
 
@@ -18,8 +18,9 @@ Address: Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 Email: kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
 
 ## Awards & Grants
+- Apr. 2024 - present, JSPS research fellow, DC2, Supervisor: Prof. Yasushi Sakurai
 - Mar. 2023, IPSJ Yamashita SIG Research Award
-- Apr. 2022 - present, Osaka University fellowship for cross-disciplinary innovation 
+- Apr. 2022 - Mar. 2024, Osaka University fellowship for cross-disciplinary innovation 
 - Jul. 2022, JASSO Repayment Exemption
 - May. 2022, Best Interactive Award (DEIM2022)
 - Mar. 2022, Student Presentation Award (DEIM2022)
@@ -29,6 +30,11 @@ Email: kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
 <!-- (7,500,000 JPY) -->
 
 ## Education
+- Ph.D. (2022-persuing)  
+Graduate School of Information Science and Technology,  
+Information Systems Engineering,  
+[Osaka University](https://www.ist.osaka-u.ac.jp/english/research/majors/ise/)  
+
 - M.Sc. (2022)  
 Graduate School of Information Science and Technology,  
 Information Systems Engineering,  

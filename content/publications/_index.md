@@ -8,15 +8,13 @@ sharingLinks: false
 ## International Conference Papers
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
-The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 April 2023\
-[acceptance rate: 19.2% (=365/1900)]\
-<!-- [acceptance rate: 19.2% (=365/1900)]\ -->
+The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 April 2023 *(acceptance rate: 19.2%)*\
 [[Paper]](https://dl.acm.org/doi/10.1145/3543507.3583370)
 [[Code]](https://github.com/kotaNakm/CubeScope)
 [[Short Video]](https://youtu.be/v-E-QjEBwNk)
 [[arXiv]](https://arxiv.org/abs/2303.03789)
 [[Slides]](slides/_CubeScope_en_webconf2023.pdf)
-
+<!-- [acceptance rate: 19.2% (=365/1900)]\ -->
 
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()\
@@ -28,7 +26,7 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 - 中村 航大, 松原 靖子, 川畑 光希, 梅田 裕平, 和田 裕一郎, 櫻井 保志. \
 [複合イベントストリームのための多方向特徴自動抽出]()\
 DEIM2022: 第14回データ工学と情報マネジメントに関するフォーラム (第20回日本デ ータベース学会年次大会)\
-(**最優秀インタラクティブ賞, 学生プレゼンテーション賞受賞**)
+(**最優秀インタラクティブ賞, 学生プレゼンテーション賞, 2022年度山下記念研究賞受賞**)
 [[Paper]](https://proceedings-of-deim.github.io/DEIM2022/#D21)
 
 - 中村 航大, 松原 靖子, 川畑 光希, 梅田 裕平, 和田 裕一郎, 櫻井 保志. \
