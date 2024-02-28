@@ -9,12 +9,13 @@ sharingLinks: false
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
 The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 April 2023\
+[acceptance rate: 19.2% (=365/1900)]\
+<!-- [acceptance rate: 19.2% (=365/1900)]\ -->
 [[Paper]](https://dl.acm.org/doi/10.1145/3543507.3583370)
 [[Code]](https://github.com/kotaNakm/CubeScope)
 [[Short Video]](https://youtu.be/v-E-QjEBwNk)
 [[arXiv]](https://arxiv.org/abs/2303.03789)
 [[Slides]](slides/_CubeScope_en_webconf2023.pdf)
-
 
 
 - Kota Nakamura  
