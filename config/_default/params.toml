@@ -21,6 +21,17 @@ showScrollToTop = true
   layout = "profile" # valid options: page, profile, custom
   showRecent = false
 
+[header]
+  layout = "custom" # valid options: basic, hamburger, custom
+
+
+[footer]
+  showCopyright = false
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+
 [article]
   showDate = true
   showDateUpdated = false
@@ -52,8 +63,8 @@ showScrollToTop = true
   showTermCount = true
 
 [fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
+  # site = ""
+  # domain = ""
 
 [verification]
   # google = ""
