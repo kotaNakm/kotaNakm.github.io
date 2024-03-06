@@ -30,7 +30,7 @@ Email: kota88[AT]sanken[dot]osaka-u[dot]ac[dot]jp
 <!-- (7,500,000 JPY) -->
 
 ## Education
-- Ph.D. (2022-persuing)  
+- Ph.D. (2022-pursuing)  
 Graduate School of Information Science and Technology,  
 Information Systems Engineering,  
 [Osaka University](https://www.ist.osaka-u.ac.jp/english/research/majors/ise/)  
