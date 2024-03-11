@@ -13,7 +13,7 @@ My research interests include complex time series analysis, data stream mining, 
 <!-- <br> -->
 
 {{< button href="about" target="_self" >}}
-Learn More
+More about me
 {{< /button >}}
 
 
