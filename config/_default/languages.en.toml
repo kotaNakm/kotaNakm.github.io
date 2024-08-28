@@ -1,28 +1,28 @@
-languageCode = "en-ja"
+languageCode = "en"
 languageName = "English"
-displayName = ""
-isoCode = "en"
+languageDirection = "ltr"
 weight = 1
-rtl = false
 
 title = "Kota Nakamura"
 # logo = "img/cube-3d.png"
-description = "I am a Ph.D. student at Osaka University, Japan. My research focuses on data mining esp. time series and tensor streams." 
 #copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "May 2023"
+[params]
+  dateFormat = "May 2023"
+  description = "I am a Ph.D. student at Osaka University, Japan. My research focuses on data mining esp. time series and tensor streams." 
 
-
-[author]
+[params.author]
   name = "Kota Nakamura"
-  image = "img/prof_kota_official.JPG"  #1860x1860
+  image = "img/prof_kota_official.JPG"  
   headline = "" 
+  bio = ""
   links = [
      { github = "https://github.com/kotaNakm" },
      { email = "mailto:kota88@sanken.osaka-u.ac.jp" },
-     { twitter = "https://twitter.com/kotanakm" },
+     { x-twitter = "https://twitter.com/kotanakm" },
      { linkedin = "https://www.linkedin.com/in/kota-nakamura-9868591ba/" },
      { youtube = "https://youtube.com/@kotaNakm" },
+  ]
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -59,6 +59,3 @@ dateFormat = "May 2023"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-  ]
-    bio = "A little bit about you"
-

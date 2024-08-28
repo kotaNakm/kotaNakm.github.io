@@ -1,5 +1,6 @@
 ---
 description: Personal site of Kota Nakamura
+showTableOfContents: true
 ---
 
 {{< lead >}}
@@ -16,6 +17,18 @@ My research interests include complex time series analysis, data stream mining, 
 More about me
 {{< /button >}}
 
+<!-- {{< figure src="img/prof_kota_official_.jpg" >}} -->
+
+
+More about me  
+More about me  
+More about me  
+More about me  
+More about me  
+More about me  
+
+<a name="sssabout"></a>
+# about
 
 <!-- \
 {{< button href="ja/about" target="_self" >}}
