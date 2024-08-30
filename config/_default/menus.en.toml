@@ -11,15 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRref = "#sssabout"
-  weight = 10
-
-[[main]]
   name = "Publications"
   pageRef = "publications"
-  weight = 20
+  weight = 40
 
+[[main]]
+  name = "MISC"
+  pageRef = "misc"
+  weight = 50
 
 [[main]]
   identifier = "search"
@@ -28,12 +27,16 @@
     action = "search"
     icon = "search"
 
-
 [[main]]
   identifier = "locale"
   weight = 100
   [main.params]
     action = "locale"
+
+#[[main]]
+#  name = "About"
+#  pageRef = "#aboutsss"
+#  weight = 20
 
 
 # -- Footer Menu --
