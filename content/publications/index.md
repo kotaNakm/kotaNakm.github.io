@@ -39,3 +39,9 @@ IPSJ Transactions on Databases (TOD), Vol. 16 (1). 2023.
 DEIM2022 \
 (**Best Interactive Award, Student Presentation Award, IPSJ Yamashita SIG Research Award**)
 [[Paper]](https://proceedings-of-deim.github.io/DEIM2022/#D21)
+
+
+- Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
+[Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
+IBIS2023
+[[link]](https://ibisml.org/ibis2023/posters)

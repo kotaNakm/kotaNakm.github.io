@@ -8,3 +8,7 @@ html {
 /* .index_contents{
 text-align: left; 
 }/* 左揃え */
+
+/* .colored_text {
+    color: var(--link-color);
+} */

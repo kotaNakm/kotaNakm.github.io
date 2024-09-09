@@ -12,12 +12,17 @@
 
 
 [[main]]
-  name = "Publications"
+  name = "研究内容"
+  pageRef = "research"
+  weight = 30
+
+[[main]]
+  name = "論文・発表など"
   pageRef = "publications"
   weight = 40
 
 [[main]]
-  name = "MISC"
+  name = "その他"
   pageRef = "misc"
   weight = 50
 
