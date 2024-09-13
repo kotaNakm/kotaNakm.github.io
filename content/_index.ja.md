@@ -23,7 +23,6 @@ Email: <u>kota88 [🦉] sanken.osaka-u.ac.jp</u> (Please replace [🦉] with @)
 [櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/)  
 〒565-0871 茨木市美穂ヶ丘8-1   -->
 
-
 ## 📝 研究について
 大規模かつ多様な時系列データのための解析技術や機械学習を専門としています。
 効率性、潜在的な関係構造や時間発展によるデータの変化に注目することで、
