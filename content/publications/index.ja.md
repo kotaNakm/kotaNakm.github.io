@@ -13,8 +13,7 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 [[Code]](https://github.com/kotaNakm/CubeScope)
 [[Short Video]](https://youtu.be/v-E-QjEBwNk)
 [[arXiv]](https://arxiv.org/abs/2303.03789)
-[[Slides]](slides/_CubeScope_en_webconf2023.pdf)
-<!-- [acceptance rate: 19.2% (=365/1900)]\ -->
+[[Slides]](./slides/_CubeScope_en_webconf2023.pdf)
 
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()\
