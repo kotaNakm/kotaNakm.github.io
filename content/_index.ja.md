@@ -3,11 +3,6 @@ description: Personal site of Kota Nakamura
 showTableOfContents: true
 ---
 
-<!-- \
-{{< button href="/" target="_self" >}}
-English page
-{{< /button >}} -->
-
 {{< leftalign >}}
 [大阪大学](https://www.osaka-u.ac.jp)の[櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/)にて
 データマイニングや機械学習について研究しています。
