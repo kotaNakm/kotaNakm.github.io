@@ -11,19 +11,37 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "about.ja"
-  weight = 10
+  name = "Research"
+  pageRef = "research"
+  weight = 30
 
 [[main]]
   name = "Publications"
   pageRef = "publications"
-  weight = 20
+  weight = 40
 
 [[main]]
- name = "About (JP)"
- pageRef = "about_ja"
- weight = 30
+  name = "MISC"
+  pageRef = "misc"
+  weight = 50
+
+[[main]]
+  identifier = "search"
+  weight = 90
+  [main.params]
+    action = "search"
+    icon = "search"
+
+[[main]]
+  identifier = "locale"
+  weight = 100
+  [main.params]
+    action = "locale"
+
+#[[main]]
+#  name = "About"
+#  pageRef = "#aboutsss"
+#  weight = 20
 
 
 # -- Footer Menu --

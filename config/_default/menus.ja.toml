@@ -10,15 +10,34 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "About (JP)"
-  pageRef = "about"
-  weight = 10
 
 [[main]]
-  name = "Publications (JP)"
+  name = "研究内容"
+  pageRef = "research"
+  weight = 30
+
+[[main]]
+  name = "論文・発表など"
   pageRef = "publications"
-  weight = 20
+  weight = 40
+
+[[main]]
+  name = "その他"
+  pageRef = "misc"
+  weight = 50
+
+[[main]]
+  identifier = "search"
+  weight = 90
+  [main.params]
+    action = "search"
+    icon = "search"
+
+[[main]]
+  identifier = "locale"
+  weight = 100
+  [main.params]
+    action = "locale"
 
 #[[main]]
 # name = "Tags"

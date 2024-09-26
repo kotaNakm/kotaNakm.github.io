@@ -1,27 +1,28 @@
 languageCode = "ja"
 languageName = "日本語"
-displayName = ""
-isoCode = "ja"
 weight = 2
-rtl = false
 
 title = "Kota Nakamura"
-# logo = "img/aa.png"
-description = "大阪大学大学院 情報科学研究科 博士後期課程 1年 同大学 産業科学研究所 特任研究員  研究課題: 大規模複合時系列イベントデータ解析, 特徴自動抽出, データストリーム解析"
 #copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "Sep 2024"
+# logo = "img/aa.png"
+
+[params]
+  dateFormat = "Sep 2024"
+  description = "大阪大学大学院 情報科学研究科 博士後期課程 1年 同大学 産業科学研究所 特任研究員  研究課題: 大規模複合時系列イベントデータ解析, 特徴自動抽出, データストリーム解析"
 
 
-[author]
-  name = "中村 航大"
-  #image = "img/prof_kota_official.JPG"  #1860x1860
-  headline = "" 
+[params.author]
+  name = "中村 航大 - Nakamura Kota"
+  image = "img/prof_kota_official.JPG"  #1860x1860
+  headline = ""
+  bio=""
   links = [
      { github = "https://github.com/kotaNakm" },
      { email = "mailto:kota88@sanken.osaka-u.ac.jp" },
-     { twitter = "https://twitter.com/kotanakm" },
+     { x-twitter = "https://twitter.com/kotanakm" },
      { linkedin = "https://www.linkedin.com/in/kota-nakamura-9868591ba/" },
+  ]
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -59,6 +60,3 @@ dateFormat = "Sep 2024"
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  ]
-    bio = "A little bit about you"
-

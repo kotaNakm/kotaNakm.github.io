@@ -8,22 +8,20 @@
 colorScheme = "ocean"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
-showAppearanceSwitcher = true
 
 enableSearch = true
 enableCodeCopy = false
 
 # mainSections = ["section1", "section2"]
 # robots = ""
-showScrollToTop = true
+# showScrollToTop = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
   showRecent = false
 
 [header]
-  layout = "custom" # valid options: basic, hamburger, custom
-
+  layout = "basic" # valid options: basic, hamburger, custom
 
 [footer]
   showCopyright = false
@@ -33,19 +31,19 @@ showScrollToTop = true
 
 
 [article]
-  showDate = true
+  showDate = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showBreadcrumbs = false
-  showDraftLabel = true
+  showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
-  showHeadingAnchors = true
-  showPagination = true
+  editAppendPath = false
+  showHeadingAnchors = false
+  showPagination = false
   invertPagination = false
-  showReadingTime = true
-  showTableOfContents = false
+  showReadingTime = false
+  showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
