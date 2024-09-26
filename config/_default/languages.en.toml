@@ -8,8 +8,8 @@ title = "Kota Nakamura"
 #copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  dateFormat = "May 2023"
-  description = "I am a Ph.D. student at Osaka University, Japan. My research focuses on data mining esp. time series and tensor streams." 
+  dateFormat = "Sep 2024"
+  description = "I'm a Ph.D. student at Osaka University. I'm also working as a project researcher at SANKEN. Research interests: data mining and machine learning." 
 
 [params.author]
   name = "Kota Nakamura"
