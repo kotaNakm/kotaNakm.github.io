@@ -12,7 +12,7 @@ I'm a Ph.D. student at [Sakurai+Matsubara laboratory](https://www.dm.sanken.osak
 I'm also working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) (The Institute of Scientific and Industrial Research at Osaka Univ.).
 
 Research interests: data mining and machine learning. \
-Feel free to contact me via <u>kota88 [🦉] sanken.osaka-u.ac.jp</u> (Please replace [🦉] with @)
+Feel free to contact me via <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
 <!-- **Personal Information.**
 I am a Ph.D. student at [Osaka University](https://www.osaka-u.ac.jp/en), Japan.
 My research interests include complex time series analysis, data stream mining, and scalable machine learning.  -->

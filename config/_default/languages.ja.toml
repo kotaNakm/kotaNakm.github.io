@@ -19,10 +19,12 @@ title = "中村 航大 (なかむら こうた)"
   bio=""
   links = [
      { github = "https://github.com/kotaNakm" },
-     { email = "mailto:kota88@sanken.osaka-u.ac.jp" },
      { x-twitter = "https://twitter.com/kotanakm" },
      { linkedin = "https://www.linkedin.com/in/kota-nakamura-9868591ba/" },
+     { youtube = "https://youtube.com/@kotaNakm" },    
+     { google-scholar = "https://scholar.google.co.jp/citations?user=gus_ZQwAAAAJ&hl" }
   ]
+  #  { email = "mailto:kota88@sanken.osaka-u.ac.jp" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },

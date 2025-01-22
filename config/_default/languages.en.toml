@@ -19,11 +19,14 @@ title = "Kota Nakamura"
   bio = ""
   links = [
      { github = "https://github.com/kotaNakm" },
-     { email = "mailto:kota88@sanken.osaka-u.ac.jp" },
      { x-twitter = "https://twitter.com/kotanakm" },
      { linkedin = "https://www.linkedin.com/in/kota-nakamura-9868591ba/" },
-     { youtube = "https://youtube.com/@kotaNakm" },
+     { youtube = "https://youtube.com/@kotaNakm" },    
+     { google-scholar = "https://scholar.google.co.jp/citations?user=gus_ZQwAAAAJ&hl" }
   ]
+  #  { orcid = "https://orcid.org/0000-0001-8159-0804" },
+  #     { email = "mailto:kota88@sanken.osaka-u.ac.jp" },
+  #   { researchgate = "https://www.researchgate.net/profile/Antoine-Soetewey" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
