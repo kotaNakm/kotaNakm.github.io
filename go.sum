@@ -4,3 +4,5 @@ github.com/jpanther/congo/v2 v2.6.1 h1:iA8uosVsiMl3JbBSBwMvrxEibzBcDp+RIj18f/cml
 github.com/jpanther/congo/v2 v2.6.1/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
 github.com/jpanther/congo/v2 v2.8.2 h1:UNg7225ZqLSt9zu0xBOh5iM9TXnuNG1Ta9eSsioHTEE=
 github.com/jpanther/congo/v2 v2.8.2/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
+github.com/jpanther/congo/v2 v2.10.0 h1:+bYBVIqjyjq/lTk9H3mK3SPV4G84IE+KkJNNseVGrSw=
+github.com/jpanther/congo/v2 v2.10.0/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=

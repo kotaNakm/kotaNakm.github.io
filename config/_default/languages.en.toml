@@ -24,8 +24,8 @@ title = "Kota Nakamura"
      { youtube = "https://youtube.com/@kotaNakm" },    
      { google-scholar = "https://scholar.google.co.jp/citations?user=gus_ZQwAAAAJ&hl" }
   ]
-  #  { orcid = "https://orcid.org/0000-0001-8159-0804" },
-  #     { email = "mailto:kota88@sanken.osaka-u.ac.jp" },
+  #   { orcid = "https://orcid.org/0000-0001-8159-0804" },
+  #   { email = "mailto:kota88@sanken.osaka-u.ac.jp" },
   #   { researchgate = "https://www.researchgate.net/profile/Antoine-Soetewey" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
