@@ -17,7 +17,7 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()\
-47th International Conference on Very Large Data Bases PhD workshop, pp. 22-26, Copenhagen, Denmark, 16 August 2021  
+47th International Conference on Very Large Data Bases (VLDB) PhD workshop, pp. 22-26, Copenhagen, Denmark, 16 August 2021  
 (**Obtained SPEND grant for virtual attendance**)
 [[Paper]](https://ceur-ws.org/Vol-2971/)
 
