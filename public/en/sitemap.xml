@@ -4,23 +4,29 @@
   
     
       <url>
-            <loc>https://kotaNakm.github.io/</loc>
+            <loc>http://localhost:1313/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="https://kotaNakm.github.io/ja/"
+              href="http://localhost:1313/ja/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://kotaNakm.github.io/"
+              href="http://localhost:1313/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://kotaNakm.github.io/about/</loc>
+            <loc>http://localhost:1313/about_ja/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/about/</loc>
           </url>
     
   
@@ -28,16 +34,52 @@
   
     
       <url>
-            <loc>https://kotaNakm.github.io/publications/</loc>
+            <loc>http://localhost:1313/misc/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="http://localhost:1313/ja/misc/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/misc/"
+              />
           </url>
-    
-  
     
   
     
       <url>
-            <loc>https://kotaNakm.github.io/about_ja/</loc>
+            <loc>http://localhost:1313/publications/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="http://localhost:1313/ja/publications/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/publications/"
+              />
           </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/research/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="http://localhost:1313/ja/research/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/research/"
+              />
+          </url>
+    
+  
     
   
 </urlset>

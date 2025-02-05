@@ -6,6 +6,10 @@ sharingLinks: false
 
 <!-- ## International Journal / Conference Papers -->
 ## International Conference Papers
+- Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
+[CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems]()\
+The ACM Web Conference 2025 (WWW Companion ’25), to appear\
+
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
 The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 April 2023 *(acceptance rate: 19.2%, 365/1900)*\
