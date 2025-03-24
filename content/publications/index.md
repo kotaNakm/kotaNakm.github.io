@@ -37,6 +37,10 @@ IPSJ Transactions on Databases (TOD), Vol. 16 (1). 2023.
 [[Paper]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223471&item_no=1&page_id=13&block_id=8)
 
 ## Presentations
+- Kota Nakamura, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. \
+[Multi-aspect Mining for Skewed Tensor Streams with Application to Cybersecurity Systems]()\
+DEIM2025
+
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Multi-aspect Mining for Complex Event Streams]()\
 DEIM2022 \
