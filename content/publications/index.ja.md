@@ -37,6 +37,10 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 [[Paper]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223471&item_no=1&page_id=13&block_id=8)
 
 ## 発表
+- 中村 航大, 川畑 光希, 田中 駿吾, 松原 靖子, 櫻井 保志. \
+[偏向型テンソルストリームのための多方向特徴自動抽出とリアルタイムサイバー攻撃検出への応用]()\
+DEIM2025: 第17回データ工学と情報マネジメントに関するフォーラム (第23回日本データベース学会年次大会)
+
 - 中村 航大, 松原 靖子, 川畑 光希, 梅田 裕平, 和田 裕一郎, 櫻井 保志. \
 [複合イベントストリームのための多方向特徴自動抽出]()\
 DEIM2022: 第14回データ工学と情報マネジメントに関するフォーラム (第20回日本データベース学会年次大会)\

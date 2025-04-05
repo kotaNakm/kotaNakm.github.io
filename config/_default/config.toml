@@ -6,8 +6,10 @@ baseURL = "https://kotaNakm.github.io/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
+[pagination]
+  pagerSize = 10
+
 
 googleAnalytics = "G-8E6NJJGCPC"
 

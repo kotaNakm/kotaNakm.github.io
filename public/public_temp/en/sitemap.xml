@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="http://localhost:1313/ja/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/about_ja/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/about/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/misc/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="http://localhost:1313/ja/misc/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/misc/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/publications/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="http://localhost:1313/ja/publications/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/publications/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/research/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="http://localhost:1313/ja/research/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/research/"
+              />
+          </url>
+    
+  
+    
+  
+</urlset>
