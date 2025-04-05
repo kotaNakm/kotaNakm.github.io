@@ -8,9 +8,10 @@ showTableOfContents: true
 
 
 {{< leftalign >}}
-I'm a Ph.D. student at [Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/), [Osaka University](https://www.osaka-u.ac.jp/en). 
-I'm also working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) (The Institute of Scientific and Industrial Research at Osaka Univ.).
-
+Ph.D. (Information Science)
+Researcher at [Toyota Motor Corporation](https://www.toyota-tokyo.tech/en/).
+<!-- I'm a Ph.D. student at [Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/), [Osaka University](https://www.osaka-u.ac.jp/en). 
+I'm also working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) (The Institute of Scientific and Industrial Research at Osaka Univ.). -->
 Research interests: data mining and machine learning. \
 Feel free to contact me via <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
 <!-- **Personal Information.**
@@ -50,8 +51,11 @@ Supervisor: Prof. Yasushi Sakurai
 <!-- - Jul. 2022, JASSO Repayment Exemption -->
 
 
-## 🎓 Education
-- Ph.D. (2022-pursuing)  
+## 🧐 Biography
+- Researcher (2025-present) 
+Toyota Motor Corporation
+
+- Ph.D. (2022-2025)  
 Graduate School of Information Science and Technology,  
 Information Systems Engineering, Osaka University \
 (**JSPS research fellow, Osaka University Fellowship for Cross-disciplinary Innovation**)
