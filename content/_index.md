@@ -57,6 +57,7 @@ Toyota Motor Corporation
 - Ph.D. (2022-2025)  
 Graduate School of Information Science and Technology,  
 Information Systems Engineering, Osaka University \
+[Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/)\
 (**JSPS research fellow, Osaka University Fellowship for Cross-disciplinary Innovation**)
 
 <!-- [Osaka University](https://www.ist.osaka-u.ac.jp/english/research/majors/ise/)   -->
@@ -64,6 +65,7 @@ Information Systems Engineering, Osaka University \
 - M.Sc. (2022)  
 Graduate School of Information Science and Technology,  
 Information Systems Engineering, Osaka University \
+[Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/)\
 (**Award of the Graduate School of Information Science and Technology of Osaka University**)
 <!-- [Osaka University](https://www.ist.osaka-u.ac.jp/english/research/majors/ise/)   -->
 
