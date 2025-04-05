@@ -51,7 +51,7 @@ Supervisor: Prof. Yasushi Sakurai
 
 
 ## 🧐 Biography
-- Researcher (2025-present) 
+- Researcher (2025-present)\
 Toyota Motor Corporation
 
 - Ph.D. (2022-2025)  
