@@ -3,15 +3,13 @@ description: Personal site of Kota Nakamura
 showTableOfContents: true
 ---
 
-{{< leftalign >}}
-博士 (情報科学)  
-リサーチャー / [トヨタ自動車株式会社](https://www.toyota-tokyo.tech).
 
+博士 (情報科学)  
+[トヨタ自動車株式会社](https://www.toyota-tokyo.tech) - リサーチャー
 <!-- [大阪大学](https://www.osaka-u.ac.jp)の[櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/)にて
 データマイニングや機械学習について研究しています。
 [大阪大学 情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/) 博士後期課程3年。
 [同大学 産業科学研究所](https://www.sanken.osaka-u.ac.jp/) 特任研究員。 -->
-
 Email: <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
 <!-- 大規模時系列データマイニングの研究に従事\
 日本データベース学会学生会員 -->
@@ -20,6 +18,7 @@ Email: <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
 [大阪大学大学院　情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/)
 [櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/)  
 〒565-0871 茨木市美穂ヶ丘8-1   -->
+{{< leftalign >}}
 
 ## 📝 研究について
 大規模時系列データのための解析技術や機械学習を研究しています。
@@ -46,7 +45,7 @@ Email: <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
 - 2020年 4月-2021年 3月, ソフトバンクAI人材奨学金
 
 ## 🧐 略歴
-- 2025年 - (現在) [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) InfoTech リサーチャー
+- 2025年 - (現在) [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) InfoTech 
 - 2022年 - 2025年 [大阪大学大学院 情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/) 情報システム工学専攻 博士後期課程\
 (**分野横断イノベーションを創造する情報人材育成フェローシップ, 日本学術振興会特別研究員 DC2**)
 - 2022年 [大阪大学大学院 情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/) 情報システム工学専攻 博士前期課程 卒業\

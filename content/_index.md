@@ -3,15 +3,14 @@ description: Personal site of Kota Nakamura
 showTableOfContents: true
 ---
 
-{{< lead >}}
-{{< /lead >}}
-
-
-{{< leftalign >}}
-Ph.D. (Information Science)
-Researcher at [Toyota Motor Corporation](https://www.toyota-tokyo.tech/en/).
+<!-- {{< lead >}}
+{{< /lead >}} -->
+Ph.D. (Information Science)  
+Researcher at [Toyota Motor Corporation](https://www.toyota-tokyo.tech/en/)
 <!-- I'm a Ph.D. student at [Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/), [Osaka University](https://www.osaka-u.ac.jp/en). 
 I'm also working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) (The Institute of Scientific and Industrial Research at Osaka Univ.). -->
+
+{{< leftalign >}}
 Research interests: data mining and machine learning. \
 Feel free to contact me via <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
 <!-- **Personal Information.**
