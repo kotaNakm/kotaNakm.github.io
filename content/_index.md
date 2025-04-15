@@ -37,7 +37,7 @@ then applicable to a wider variety of real-world contexts, particularly: -->
 <!-- centers on -->
 
 ## 👑 Awards & Grants 
-- Apr. 2024 - present, [JSPS research fellow, DC2](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1615/), 
+- Apr. 2024 - Mar. 2025, [JSPS research fellow, DC2](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1615/), 
 Supervisor: Prof. Yasushi Sakurai
 - Mar. 2023, [IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita.html)
 - Apr. 2022 - Mar. 2024, Osaka University fellowship for cross-disciplinary innovation 
@@ -54,7 +54,7 @@ Supervisor: Prof. Yasushi Sakurai
 - Researcher (2025-present)\
 Toyota Motor Corporation
 
-- Ph.D. (2022-2025)  
+- Ph.D. (2025)  
 Graduate School of Information Science and Technology,  
 Information Systems Engineering, Osaka University \
 [Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/)\
