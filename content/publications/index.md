@@ -8,7 +8,9 @@ sharingLinks: false
 ## International Conference Papers
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
 [CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems]()\
-The ACM Web Conference 2025 (WWW Companion ’25), to appear
+The ACM Web Conference 2025 (WWW Companion ’25), to appear  
+[[Code]](https://github.com/kotaNakm/CyberCScope)
+[[arXiv]](https://arxiv.org/abs/2503.00871)
 
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\

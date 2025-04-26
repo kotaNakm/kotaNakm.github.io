@@ -3,14 +3,14 @@ description: Personal site of Kota Nakamura
 showTableOfContents: true
 ---
 
-{{< lead >}}
-{{< /lead >}}
-
+<!-- {{< lead >}}
+{{< /lead >}} -->
+Ph.D. (Information Science)  
+Researcher at [Toyota Motor Corporation](https://www.toyota-tokyo.tech/en/)
+<!-- I'm a Ph.D. student at [Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/), [Osaka University](https://www.osaka-u.ac.jp/en). 
+I'm also working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) (The Institute of Scientific and Industrial Research at Osaka Univ.). -->
 
 {{< leftalign >}}
-I'm a Ph.D. student at [Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/), [Osaka University](https://www.osaka-u.ac.jp/en). 
-I'm also working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) (The Institute of Scientific and Industrial Research at Osaka Univ.).
-
 Research interests: data mining and machine learning. \
 Feel free to contact me via <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
 <!-- **Personal Information.**
@@ -37,7 +37,7 @@ then applicable to a wider variety of real-world contexts, particularly: -->
 <!-- centers on -->
 
 ## 👑 Awards & Grants 
-- Apr. 2024 - present, [JSPS research fellow, DC2](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1615/), 
+- Apr. 2024 - Mar. 2025, [JSPS research fellow, DC2](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1615/), 
 Supervisor: Prof. Yasushi Sakurai
 - Mar. 2023, [IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita.html)
 - Apr. 2022 - Mar. 2024, Osaka University fellowship for cross-disciplinary innovation 
@@ -50,10 +50,14 @@ Supervisor: Prof. Yasushi Sakurai
 <!-- - Jul. 2022, JASSO Repayment Exemption -->
 
 
-## 🎓 Education
-- Ph.D. (2022-pursuing)  
+## 🧐 Biography
+- Researcher (2025-present)\
+Toyota Motor Corporation
+
+- Ph.D. (2025)  
 Graduate School of Information Science and Technology,  
 Information Systems Engineering, Osaka University \
+[Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/)\
 (**JSPS research fellow, Osaka University Fellowship for Cross-disciplinary Innovation**)
 
 <!-- [Osaka University](https://www.ist.osaka-u.ac.jp/english/research/majors/ise/)   -->
@@ -61,6 +65,7 @@ Information Systems Engineering, Osaka University \
 - M.Sc. (2022)  
 Graduate School of Information Science and Technology,  
 Information Systems Engineering, Osaka University \
+[Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/)\
 (**Award of the Graduate School of Information Science and Technology of Osaka University**)
 <!-- [Osaka University](https://www.ist.osaka-u.ac.jp/english/research/majors/ise/)   -->
 

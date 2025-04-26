@@ -1,0 +1,15 @@
+# config/_default/hugo.toml
+
+baseURL = "https://kotaNakm.github.io/"
+defaultContentLanguage = "en"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[security]
+  [security.funcs]
+    getenv = ["^HUGO_", "^WC_"]
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-8E6NJJGCPC'
