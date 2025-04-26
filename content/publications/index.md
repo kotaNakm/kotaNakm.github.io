@@ -9,23 +9,23 @@ sharingLinks: false
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
 [CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems]()\
 The ACM Web Conference 2025 (WWW Companion ’25), to appear  
-[[Code]](https://github.com/kotaNakm/CyberCScope)
 [[arXiv]](https://arxiv.org/abs/2503.00871)
+[[Code]](https://github.com/kotaNakm/CyberCScope)
 
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
 The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 April 2023 *(acceptance rate: 19.2%, 365/1900)*\
-[[Paper]](https://dl.acm.org/doi/10.1145/3543507.3583370)
+[[arXiv]](https://arxiv.org/abs/2303.03789)
+[[Proceedings]](https://dl.acm.org/doi/10.1145/3543507.3583370)
 [[Code]](https://github.com/kotaNakm/CubeScope)
 [[Short Video]](https://youtu.be/v-E-QjEBwNk)
-[[arXiv]](https://arxiv.org/abs/2303.03789)
 [[Slides]](/slides/_CubeScope_en_webconf2023.pdf)
 
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()\
 47th International Conference on Very Large Data Bases (VLDB) PhD workshop, pp. 22-26, Copenhagen, Denmark, 16 August 2021  
 (**Obtained SPEND grant for virtual attendance**)
-[[Paper]](https://ceur-ws.org/Vol-2971/)
+[[Proceedings]](https://ceur-ws.org/Vol-2971/)
 
 ## Domestic Journals
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai.  
@@ -41,7 +41,8 @@ IPSJ Transactions on Databases (TOD), Vol. 16 (1). 2023.
 ## Presentations
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
 [Multi-aspect Mining for Skewed Tensor Streams with Application to Cybersecurity Systems]()\
-DEIM2025
+DEIM2025\
+[[Paper]](https://pub.confit.atlas.jp/ja/event/deim2025/presentation/4D-02)
 
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Multi-aspect Mining for Complex Event Streams]()\
