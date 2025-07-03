@@ -3,6 +3,9 @@
 baseURL = "https://kotaNakm.github.io/"
 defaultContentLanguage = "en"
 
+_merge = "deep"
+
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 

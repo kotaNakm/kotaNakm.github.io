@@ -12,35 +12,35 @@
       <link>http://localhost:1313/about_ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about_ja/</guid>
-      <description></description>
+      <description>&lt;p&gt;Page Not Found 😕&lt;/p&gt;</description>
     </item>
     <item>
       <title>⬆️ Please click &#34;Kota Nakamura&#34;</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;Page Not Found 😕&lt;/p&gt;</description>
     </item>
     <item>
       <title>MISC</title>
       <link>http://localhost:1313/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/misc/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;external-links&#34; class=&#34;relative group&#34;&gt;External Links &lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.toyota-tokyo.tech/en/members/kotanakamura.html&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;TOYOTA OTEMACHI&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- ## Blogs&#xA;- [CyberCScope was highlighted in the DEIM2025 participation report by PLAID Inc.](https://tech.plaid.co.jp/deim_2025)&#xA;- [Brief interview@Sakurai+Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp/interview_kota/)&#xA;- [CubeScope was highlighted by Sione Palu on LinkedIn timeline](https://www.linkedin.com/posts/sione-palu-3803b0bb_python-multilinearalgebra-activity-7049203114280665088-K1i5?utm_source=share&amp;utm_medium=member_desktop) --&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/</guid>
-      <description></description>
+      <description>&lt;!-- ## International Journal / Conference Papers --&gt;&#xA;&lt;h2 id=&#34;international-conference-papers&#34; class=&#34;relative group&#34;&gt;International Conference Papers &lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. &lt;br&gt;&#xA;&lt;a href=&#34;&#34;&gt;CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems&lt;/a&gt;&lt;br&gt;&#xA;The ACM Web Conference 2025 (WWW Companion ’25), to appear&lt;br&gt;&#xA;&lt;a href=&#34;https://arxiv.org/abs/2503.00871&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;[arXiv]&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/kotaNakm/CyberCScope&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;[Code]&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. &lt;br&gt;&#xA;&lt;a href=&#34;&#34;&gt;Fast and Multi-aspect Mining of Complex Time-stamped Event Streams&lt;/a&gt;&lt;br&gt;&#xA;The ACM Web Conference 2023 (WWW &amp;lsquo;23), pp. 1638–1649, Austin, TX, USA, 30 April 2023 &lt;em&gt;(acceptance rate: 19.2%, 365/1900)&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://arxiv.org/abs/2303.03789&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;[arXiv]&lt;/a&gt;&#xA;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3543507.3583370&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;[Proceedings]&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/kotaNakm/CubeScope&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;[Code]&lt;/a&gt;&#xA;&lt;a href=&#34;https://youtu.be/v-E-QjEBwNk&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;[Short Video]&lt;/a&gt;&#xA;&lt;a href=&#34;http://localhost:1313/slides/_CubeScope_en_webconf2023.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;re1&#34; class=&#34;relative group&#34;&gt;Mining Complex Time-stamped Event Streams &lt;/h3&gt;&lt;p&gt;Given a huge, online stream of time-evolving events with multiple attributes, such as online shopping logs: (item, price, brand, time), and local mobility: (pick-up location, drop-off location, time),&#xA;how can we see any hidden patterns, rules, and anomalies?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Short video&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/v-E-QjEBwNk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;re2&#34; class=&#34;relative group&#34;&gt;Predicting Future Events by Discovering Predictive Patterns &lt;/h3&gt;&lt;div class=&#34;flex rounded-md bg-primary-100 px-4 py-3 dark:bg-primary-900&#34;&gt;&#xA;  &lt;span class=&#34;pe-3 text-primary-400&#34;&gt;&#xA;    &lt;span class=&#34;icon relative inline-block px-1 align-text-bottom&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Due to the paper being under blind review, identifying information has been concealed.&#xA;Coming soon!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h3 id=&#34;re3&#34; class=&#34;relative group&#34;&gt;Time Series Transformation for Ultrafast Arriving Data Streams &lt;/h3&gt;&lt;div class=&#34;flex rounded-md bg-primary-100 px-4 py-3 dark:bg-primary-900&#34;&gt;&#xA;  &lt;span class=&#34;pe-3 text-primary-400&#34;&gt;&#xA;    &lt;span class=&#34;icon relative inline-block px-1 align-text-bottom&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Due to the paper being under blind review, identifying information has been concealed.&#xA;Coming soon!&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
