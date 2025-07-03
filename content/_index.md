@@ -12,7 +12,7 @@ I'm also working as a project researcher at [SANKEN](https://www.sanken.osaka-u.
 
 {{< leftalign >}}
 Research interests: data mining and machine learning. \
-Feel free to contact me via <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
+Feel free to contact me via <u>kotanakm3 [🦉] gmail.com</u> (Please replace [🦉] with @)
 <!-- **Personal Information.**
 I am a Ph.D. student at [Osaka University](https://www.osaka-u.ac.jp/en), Japan.
 My research interests include complex time series analysis, data stream mining, and scalable machine learning.  -->

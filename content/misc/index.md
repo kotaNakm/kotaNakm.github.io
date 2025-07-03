@@ -5,9 +5,9 @@ sharingLinks: false
 showTableOfContents: false
 ---
 
-## External Links
-- [TOYOTA OTEMACHI](https://www.toyota-tokyo.tech/en/members/kotanakamura.html)
-
+## External links
+- Current Affiliation: [TOYOTA OTEMACHI](https://www.toyota-tokyo.tech/en/members/kotanakamura.html)
+- Ph.D. Lab: [Sakurai+Matsubara laboratory](https://www.toyota-tokyo.tech/en/members/kotanakamura.html) — thanks for all the support and great memories.
 
 <!-- ## Blogs
 - [CyberCScope was highlighted in the DEIM2025 participation report by PLAID Inc.](https://tech.plaid.co.jp/deim_2025)

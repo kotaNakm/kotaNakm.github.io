@@ -7,7 +7,7 @@ showTableOfContents: false
 
 ## 外部リンク
 - [トヨタ大手町](https://www.toyota-tokyo.tech/members/kotanakamura.html)
-
+- [櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/)
 
 <!-- ## ブログ記事
 - [CyberCScopeが株式会社プレイド DEIM2025参加レポートにて紹介されました](https://tech.plaid.co.jp/deim_2025)

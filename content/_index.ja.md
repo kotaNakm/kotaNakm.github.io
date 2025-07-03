@@ -10,7 +10,7 @@ showTableOfContents: true
 データマイニングや機械学習について研究しています。
 [大阪大学 情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/) 博士後期課程3年。
 [同大学 産業科学研究所](https://www.sanken.osaka-u.ac.jp/) 特任研究員。 -->
-Email: <u>kotanakm0317 [🦉] gmail.com</u> (Please replace [🦉] with @)
+Email: <u>kotanakm3 [🦉] gmail.com</u> (Please replace [🦉] with @)
 <!-- 大規模時系列データマイニングの研究に従事\
 日本データベース学会学生会員 -->
 <!-- [大阪大学](https://www.osaka-u.ac.jp/)  
