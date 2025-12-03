@@ -6,6 +6,10 @@ sharingLinks: false
 
 <!-- ## International Journal / Conference Papers -->
 ## 国際会議
+- Kota Nakamura, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. \
+[Fast Mining and Dynamic Time-to-Event Prediction over Multi-sensor Data Streams ]()\
+The 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26), to appear
+
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
 [CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems]()\
 The ACM Web Conference 2025 (WWW Companion ’25), pp. 1214–1218, Sydney NSW, Australia, 23 May 2025\
@@ -26,8 +30,8 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()\
 47th International Conference on Very Large Data Bases (VLDB) PhD workshop, pp. 22-26, Copenhagen, Denmark, 16 August 2021  
-(**Obtained SPEND grant for virtual attendance**)
-[[Paper]](https://ceur-ws.org/Vol-2971/)
+**Obtained SPEND grant for virtual attendance**\
+[[Proceedings]](https://ceur-ws.org/Vol-2971/)
 
 ## 国内論文誌
 - 中村 航大, 松原 靖子, 川畑 光希, 梅田 裕平, 和田 裕一郎, 櫻井 保志. \
@@ -41,19 +45,25 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 [[Paper]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223471&item_no=1&page_id=13&block_id=8)
 
 ## 発表
+- 中村航大, 藤田幸久. \
+[ゼロショット埋め込みを用いた関連テーブル検索]()\
+人工知能学会, 第一回データ協創研究会
+
 - 中村 航大, 川畑 光希, 田中 駿吾, 松原 靖子, 櫻井 保志. \
 [偏向型テンソルストリームのための多方向特徴自動抽出とリアルタイムサイバー攻撃検出への応用]()\
-DEIM2025: 第17回データ工学と情報マネジメントに関するフォーラム (第23回日本データベース学会年次大会)
+DEIM2025: 第17回データ工学と情報マネジメントに関するフォーラム (第23回日本データベース学会年次大会)\
+**TOD推薦論文 (Top 6.5%, 23/354)**  
+[[Paper]](https://proceedings-of-deim.github.io/DEIM2022/#D21)
 
 - 中村 航大, 松原 靖子, 川畑 光希, 梅田 裕平, 和田 裕一郎, 櫻井 保志. \
 [複合イベントストリームのための多方向特徴自動抽出]()\
 DEIM2022: 第14回データ工学と情報マネジメントに関するフォーラム (第20回日本データベース学会年次大会)\
-(**最優秀インタラクティブ賞, 学生プレゼンテーション賞, 2022年度山下記念研究賞受賞**)
+**最優秀インタラクティブ賞 (Top 1%, 3/365), 学生プレゼンテーション賞, 2022年度山下記念研究賞受賞**\
 [[Paper]](https://proceedings-of-deim.github.io/DEIM2022/#D21)
 
 
 - 中村 航大, 松原 靖子, 川畑 光希, 梅田 裕平, 和田 裕一郎, 櫻井 保志. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
-電子情報通信学会 情報論的学習理論と機械学習研究会 \
-第26回情報論的学習理論ワークショップ (IBIS2023)
+電子情報通信学会 情報論的学習理論と機械学習研究会 
+第26回情報論的学習理論ワークショップ (IBIS2023) \
 [[link]](https://ibisml.org/ibis2023/posters)

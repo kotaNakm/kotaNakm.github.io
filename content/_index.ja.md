@@ -33,7 +33,7 @@ Email: <u>kotanakm3 [🦉] gmail.com</u> (Please replace [🦉] with @)
 モデル選択のための情報理論、多目的最適化など
 
 
-## 👑 受賞/研究資金/奨学金
+## 🎓 受賞/研究資金/奨学金
 - 2024年 4月 - 2025年 3月, [日本学術振興会特別研究員 DC2](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1615/)
 - 2023年 3月, [情報処理学会 2022年度 山下記念研究賞](https://www.ipsj.or.jp/award/yamashita.html)
 - 2022年 4月 - 2024年 3月, 分野横断イノベーションを創造する情報人材育成フェローシップ

@@ -6,6 +6,10 @@ sharingLinks: false
 
 <!-- ## International Journal / Conference Papers -->
 ## International Conference Papers
+- Kota Nakamura, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. \
+[Fast Mining and Dynamic Time-to-Event Prediction over Multi-sensor Data Streams ]()\
+The 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26), to appear
+
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
 [CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems]()\
 The ACM Web Conference 2025 (WWW Companion ’25), pp. 1214–1218, Sydney NSW, Australia, 23 May 2025\
@@ -25,34 +29,39 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 - Kota Nakamura  
 [Stream Mining of Complex Event Tensor]()\
 47th International Conference on Very Large Data Bases (VLDB) PhD workshop, pp. 22-26, Copenhagen, Denmark, 16 August 2021\
-(**Obtained SPEND grant for virtual attendance**)
+**Obtained SPEND grant for virtual attendance**\
 [[Proceedings]](https://ceur-ws.org/Vol-2971/)
 
 ## Domestic Journals
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai.  
 [Automatic Mining of Complex Event Streams.]()\
-IPSJ Transactions on Databases (TOD), Vol. 14 (4). 2021.
+IPSJ Transactions on Databases (TOD), Vol. 14 (4). 2021.\
 [[Paper]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=213271&item_no=1&page_id=13&block_id=8)
 
 - Kohei Obata, Yasuko Matsubara, Koki Kawabata, Kota Nakamura, Yasushi Sakurai.  
 [Automatic Network Structure-based Clustering of Multivariate Time Series.]()\
-IPSJ Transactions on Databases (TOD), Vol. 16 (1). 2023.
+IPSJ Transactions on Databases (TOD), Vol. 16 (1). 2023.\
 [[Paper]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223471&item_no=1&page_id=13&block_id=8)
 
 ## Presentations
+- Kota Nakamura, Yukihisa Fujita. \
+[Finding Related Tables with Zero-Shot Embeddings]()\
+SIGAIs 2025 SIG-DC
+
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
 [Multi-aspect Mining for Skewed Tensor Streams with Application to Cybersecurity Systems]()\
 DEIM2025\
+**TOD Recommended Paper (Top 6.5%, 23/354)**\
 [[Paper]](https://pub.confit.atlas.jp/ja/event/deim2025/presentation/4D-02)
 
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Multi-aspect Mining for Complex Event Streams]()\
 DEIM2022 \
-(**Best Interactive Award, Student Presentation Award, IPSJ Yamashita SIG Research Award**)
+**Best Interactive Award (Top 1%, 3/365), Student Presentation Award, IPSJ Yamashita SIG Research Award**\
 [[Paper]](https://proceedings-of-deim.github.io/DEIM2022/#D21)
 
 
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
-IBIS2023
+IBIS2023\
 [[link]](https://ibisml.org/ibis2023/posters)

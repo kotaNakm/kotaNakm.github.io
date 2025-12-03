@@ -36,7 +36,7 @@ scalable, adaptive, relational, and
 then applicable to a wider variety of real-world contexts, particularly: -->
 <!-- centers on -->
 
-## 👑 Awards & Grants 
+## 🎓 Awards & Grants 
 - Apr. 2024 - Mar. 2025, [JSPS research fellow, DC2](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1615/), 
 Supervisor: Prof. Yasushi Sakurai
 - Mar. 2023, [IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita.html)
