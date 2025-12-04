@@ -47,6 +47,7 @@ IPSJ Transactions on Databases (TOD), Vol. 16 (1). 2023.\
 - Kota Nakamura, Yukihisa Fujita. \
 [Finding Related Tables with Zero-Shot Embeddings]()\
 SIGAIs 2025 SIG-DC
+[[Paper]](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2025/DC-001/_contents/-char/en)
 
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
 [Multi-aspect Mining for Skewed Tensor Streams with Application to Cybersecurity Systems]()\

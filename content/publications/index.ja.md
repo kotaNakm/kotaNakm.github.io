@@ -48,6 +48,7 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 - 中村航大, 藤田幸久. \
 [ゼロショット埋め込みを用いた関連テーブル検索]()\
 人工知能学会, 第一回データ協創研究会
+[[Paper]](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2025/DC-001/_contents/-char/ja)
 
 - 中村 航大, 川畑 光希, 田中 駿吾, 松原 靖子, 櫻井 保志. \
 [偏向型テンソルストリームのための多方向特徴自動抽出とリアルタイムサイバー攻撃検出への応用]()\
