@@ -6,7 +6,7 @@ showTableOfContents: true
 <!-- {{< lead >}}
 {{< /lead >}} -->
 Ph.D. (Information Science)  
-Researcher at [Toyota Motor Corporation](https://www.toyota-tokyo.tech/en/)
+Researcher at Toyota Motor Corporation
 <!-- I'm a Ph.D. student at [Sakurai+Matsubara laboratory](https://www.dm.sanken.osaka-u.ac.jp/), [Osaka University](https://www.osaka-u.ac.jp/en). 
 I'm also working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) (The Institute of Scientific and Industrial Research at Osaka Univ.). -->
 
@@ -52,7 +52,7 @@ Supervisor: Prof. Yasushi Sakurai
 
 ## 🧐 Biography
 - Researcher (2025-present)\
-Toyota Motor Corporation
+[Toyota Motor Corporation](https://global.toyota/en/), [InfoTech](https://www.toyota-tokyo.tech/en/)
 
 - Ph.D. (2025)  
 Graduate School of Information Science and Technology,  

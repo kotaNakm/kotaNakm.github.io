@@ -5,7 +5,7 @@ showTableOfContents: true
 
 
 博士 (情報科学)  
-[トヨタ自動車株式会社](https://www.toyota-tokyo.tech) - リサーチャー
+トヨタ自動車株式会社 - リサーチャー
 <!-- [大阪大学](https://www.osaka-u.ac.jp)の[櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/)にて
 データマイニングや機械学習について研究しています。
 [大阪大学 情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/) 博士後期課程3年。
@@ -45,14 +45,15 @@ Email: <u>kotanakm3 [🦉] gmail.com</u> (Please replace [🦉] with @)
 - 2020年 4月-2021年 3月, ソフトバンクAI人材奨学金
 
 ## 🧐 略歴
-- 2025年 - (現在) [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) InfoTech 
+- 2025年 - (現在) [トヨタ自動車株式会社](https://global.toyota) [InfoTech](https://www.toyota-tokyo.tech/) 
 - 2025年 大阪大学大学院 情報科学研究科 情報システム工学専攻 博士後期課程 卒業\
 [櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/) 所属\
 (**分野横断イノベーションを創造する情報人材育成フェローシップ, 日本学術振興会特別研究員 DC2**)
 - 2022年 大阪大学大学院 情報科学研究科 情報システム工学専攻 博士前期課程 卒業\
 [櫻井・松原研究室](https://www.dm.sanken.osaka-u.ac.jp/) 所属\
 (**大阪大学 情報科学研究科賞受賞**)  
-- 2020年 [熊本大学 工学部 情報電気電子工学科](https://www.eng.kumamoto-u.ac.jp/department/dept3/) 卒業
+- 2020年 熊本大学 工学部 情報電気電子工学科 卒業
 - 2016年 福岡県立福岡高等学校 卒業
 
 {{< /leftalign >}}
+<!-- - 2020年 [熊本大学 工学部 情報電気電子工学科](https://www.eng.kumamoto-u.ac.jp/department/dept3/) 卒業 -->
