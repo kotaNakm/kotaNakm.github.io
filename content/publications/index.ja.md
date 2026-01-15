@@ -9,6 +9,8 @@ sharingLinks: false
 - Kota Nakamura, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. \
 [Fast Mining and Dynamic Time-to-Event Prediction over Multi-sensor Data Streams ]()\
 The 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26), to appear
+[[arXiv]](https://arxiv.org/abs/2601.04741)
+[[Code]](https://github.com/kotaNakm/TimeCast)
 
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
 [CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems]()\
@@ -16,7 +18,6 @@ The ACM Web Conference 2025 (WWW Companion ’25), pp. 1214–1218, Sydney NSW, 
 [[arXiv]](https://arxiv.org/abs/2503.00871)
 [[Proceedings]](https://dl.acm.org/doi/abs/10.1145/3701716.3715476)
 [[Code]](https://github.com/kotaNakm/CyberCScope)
-
 
 - Kota Nakamura, Yasuko Matsubara, Koki Kawabata, Yuhei Umeda, Yuichiro Wada, Yasushi Sakurai. \
 [Fast and Multi-aspect Mining of Complex Time-stamped Event Streams]()\
