@@ -8,7 +8,7 @@ sharingLinks: false
 ## 国際会議
 - Kota Nakamura, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. \
 [Fast Mining and Dynamic Time-to-Event Prediction over Multi-sensor Data Streams ]()\
-The 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26), to appear
+The 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26), to appear\
 [[arXiv]](https://arxiv.org/abs/2601.04741)
 [[Code]](https://github.com/kotaNakm/TimeCast)
 
@@ -35,14 +35,20 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 [[Proceedings]](https://ceur-ws.org/Vol-2971/)
 
 ## 国内論文誌
+- 中村 航大, 川畑 光希, 田中 駿吾, 松原 靖子, 櫻井 保志. \
+[偏向型テンソルストリームのための多方向特徴自動抽出とリアルタイムサイバー攻撃検出への応用]()\
+情報処理学会論文誌データベース（TOD）, Vol.19, No. 1, pp. 11-20, 2026年1月26日.\
+**DEIM推薦論文 (Top 6.5%, 23/354)**\
+[[Paper]](https://ipsj.ixsq.nii.ac.jp/records/2006861)
+
 - 中村 航大, 松原 靖子, 川畑 光希, 梅田 裕平, 和田 裕一郎, 櫻井 保志. \
 [複合イベントストリームのための特徴自動抽出]()\
-情報処理学会論文誌：データベース, Vol.14, No. 4, pp. 24-35, 2021年10月14日.  
+情報処理学会論文誌データベース（TOD）, Vol.14, No. 4, pp. 24-35, 2021年10月14日.  
 [[Paper]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=213271&item_no=1&page_id=13&block_id=8)
 
 - 小幡 紘平, 松原 靖子, 川畑 光希, 中村 航大, 櫻井 保志. \
 [時系列データの自動ネットワーク構造検出アルゴリズム]()\
-情報処理学会論文誌：データベース, Vol.16, No. 1, pp. 1-13, 2023年1月13日.  
+情報処理学会論文誌データベース（TOD）, Vol.16, No. 1, pp. 1-13, 2023年1月13日.  
 [[Paper]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223471&item_no=1&page_id=13&block_id=8)
 
 ## 発表
@@ -54,7 +60,6 @@ The ACM Web Conference 2023 (WWW '23), pp. 1638–1649, Austin, TX, USA, 30 Apri
 - 中村 航大, 川畑 光希, 田中 駿吾, 松原 靖子, 櫻井 保志. \
 [偏向型テンソルストリームのための多方向特徴自動抽出とリアルタイムサイバー攻撃検出への応用]()\
 DEIM2025: 第17回データ工学と情報マネジメントに関するフォーラム (第23回日本データベース学会年次大会)\
-**TOD推薦論文 (Top 6.5%, 23/354)**  
 [[Paper]](https://proceedings-of-deim.github.io/DEIM2022/#D21)
 
 - 中村 航大, 松原 靖子, 川畑 光希, 梅田 裕平, 和田 裕一郎, 櫻井 保志. \
