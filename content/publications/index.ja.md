@@ -8,8 +8,9 @@ sharingLinks: false
 ## 国際会議
 - Kota Nakamura, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. \
 [Fast Mining and Dynamic Time-to-Event Prediction over Multi-sensor Data Streams ]()\
-The 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26), to appear\
+The 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1 (KDD’26), pp. 1089-1100, Jeju Island, Republic of Korea, 9 August 2026.\
 [[arXiv]](https://arxiv.org/abs/2601.04741)
+[[Proceedings]](https://dl.acm.org/doi/10.1145/3770854.3780164)
 [[Code]](https://github.com/kotaNakm/TimeCast)
 
 - Kota Nakamura, Koki Kawabata, Shungo Tanaka, Yasuko Matsubara, Yasushi Sakurai. \
