@@ -14,14 +14,15 @@ how can we see any hidden patterns, rules, and anomalies?
 
 
 ### Predicting Future Events by Discovering Predictive Patterns {#re2}
-{{< alert >}} 
-Due to the paper being under blind review, identifying information has been concealed.
-Coming soon!
-{{< /alert >}} 
+Given real-time sensor data streams obtained from machines, how can we continuously predict when a machine failure will occur?
+This work aims to continuously forecast the timing of future events by analyzing multi-sensor data streams.
 
+- Short video
+{{< youtube v=C4PL2ognqvw >}}
 
+<!--
 ### Time Series Transformation for Ultrafast Arriving Data Streams {#re3}
 {{< alert >}} 
 Due to the paper being under blind review, identifying information has been concealed.
 Coming soon!
-{{< /alert >}} 
+{{< /alert >}}  -->
