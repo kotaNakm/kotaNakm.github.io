@@ -18,7 +18,7 @@ Given real-time sensor data streams obtained from machines, how can we continuou
 This work aims to continuously forecast the timing of future events by analyzing multi-sensor data streams.
 
 - Short video
-{{< youtube v=C4PL2ognqvw >}}
+{{< youtube C4PL2ognqvw >}}
 
 <!--
 ### Time Series Transformation for Ultrafast Arriving Data Streams {#re3}
